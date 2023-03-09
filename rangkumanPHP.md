@@ -1,0 +1,15 @@
+NAMA : Zabrina Dewi Fauziah
+No : 28
+NIM : 2141720232
+
+VIDEO 1 : Pengertian PHP tentang mengapa tidak menggunakan bahasa lainnya. Alasannya karena mampu membuat keputusan besar tanpa harus ada keahlian statistik pengguna. Untuk tahap awal, mempelajari PHP dan setelah itu kemampuan bahasa lain bisa signifikan.
+
+VIDEO 2 : Tentang penginstalan kode dan apa saja yang diperlukan dalam praktik PHP. Pertama yaitu text editor bisa menggunakan vscode atau sublime text. Kedua adalah terminal yang berguna untuk mengubah direktori, daftar file menjalankan beberapa perintah. Jika ingin mengubah direktori, menggunakan perintah cd (change directory) dan jika ingin membuat list file menggunakan ls. Untuk saran ketiga yaitu menginstall XAMPP. Terakhir memilih sistem gui untuk berinteraksi dengan database mysql.
+
+VIDEO 3 : Membahas tentang membuat direktori pada terminal yang nantinya akan menjadi sebuah file dengan nama index.html. Mengapa diberikan nama index.html? Karena pada dasarnya sebuah index sangatlah penting dalam pembelajaraan web. Namun file.html yang dibuat pertama masih statis. Yang dimaksud web statis adalah website yang berisi informasi yang tetap dan cenderung jarang berubah, jadi web nya tidak bisa berinteraksi dengan user. Agar bisa berinteraksi, maka kita ubah .html menjadi .php yang mana file index akan menjadi dinamis. 
+
+VIDEO 4 : PHP dan html bisa bekerjasama dalam satu file dan yang dibutuhkan adalah <?php ?>. Dalam penggabungan kata di PHP tidak bisa menggunakan (+) namun menggunakan (.) yang disebut sebagai operator gabungan. Diberikan $ (dollar sign) agar PHP bisa berjalan secara dinamis. Mengapa lebih baik dinamis daripada mengulang string? Terkadang variable akan menunjuk ke hal yang tidak dijalankan. Refactoring adalah men tweak code tanpa benar - benar mengubah hasil, agar lebih akomodatif.
+
+VIDEO 5 : Kode permograman atau web bisa dilihat/menambah kode melalui inspect. Adapun conditional statement yang merupakan salah satu fitur dalam php untuk mengeksekusi kode secara selektiif berdasarkan kondisi tertentu atau logika. Dan boolean adalah tipe data yang hanya memiliki dua nilai yaitu true dan false. Dalam video ini dijelaskan pula tentang if else (suatu kondisi jika satu kode bernilai true dan blok kode lainnya bernilai false) dan if else - if else (digunakan untuk memeriksa kondisi jika kondisi pertama(if) tidak terpenuhi). 
+
+VIDEO 6 : Menjelaskan bahwa array pun bisa menjadi dinamis dalam bahasa PHP. Dibuat dinamis karena array biasanya masuk ke dalam database sehingga agar lebih mudah saat pemanggilan. Dalam percobaan ini, membuat array list buku yang direkomendasikan. Menggunakan foreach untuk mengulang tiap isi array dan mengeksekusi. Adapun end-foreach untuk menutup blok kode agar menghindari kesalahan sintaks pada kode yang kompleks. Blok kode yang ditutup adalah pada foreach() dan akhiran end-foreach adalah semicolon.
